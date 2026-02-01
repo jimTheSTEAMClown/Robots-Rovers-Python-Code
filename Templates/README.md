@@ -1,6 +1,6 @@
 # Python Template Files
 ## Generic Python "Start Here" Template (probably runs fine on any Python hardware platform)
-- link
+- [link](https://github.com/jimTheSTEAMClown/Robots-Rovers-Python-Code/blob/main/Templates/generic-python-start-here-template.py)
 
 ## Circuit Playground Python "Start Here" Template (Targets the Adafruit Circuit Playground Python hardware platform)
 - link
