@@ -30,4 +30,5 @@ def main():
       print('Birthday database updated.')
       print(birthdays)
             
-main()
+if __name__ == "__main__":
+    main()
