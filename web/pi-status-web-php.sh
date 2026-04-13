@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OUTPUT="/var/www/html/pi_web_php_status.txt"
+OUTPUT="/var/www/html/pi_status_web_php.txt"
 
 # Timestamp
 echo "timestamp=$(date '+%Y-%m-%d %H:%M:%S')" > $OUTPUT
